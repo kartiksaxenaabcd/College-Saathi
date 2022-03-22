@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824932741813",
+    "project_id": "kartik-8afd0",
+    "storage_bucket": "kartik-8afd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824932741813:android:b64f2a2d2d3561ccfc44fc",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824932741813-hjitl27314rlmeqe0238jmosgotsg165.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpJdVpn1PYAfu6AAm_duJptw0tn_EyYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824932741813-hjitl27314rlmeqe0238jmosgotsg165.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
